@@ -3,7 +3,7 @@
 [![ntl-badge]][ntl-link] ![views] ![hits] ![stars] ![forks] ![issues] ![license] ![repo-size]
 
 <a href="https://akio-arai-cdlgrl2j7-unicorn-group.vercel.app">
-  <img src="https://github.com/BlueUnicorn0805/Goodcar-Rent/blob/master/src/app/opengraph-image.png?raw=true" alt="A car rental service website built with Next.js, Tailwind CSS & shadcn/ui!">
+  <img src="https://github.com/BlueUnicorn0805/Good-CarRent/blob/master/src/app/opengraph-image.png?raw=true" alt="A car rental service website built with Next.js, Tailwind CSS & shadcn/ui!">
 </a>
 
 # Goodcar-Rent
